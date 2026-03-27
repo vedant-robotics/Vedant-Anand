@@ -1,8 +1,8 @@
 ## Hi 👋, Vedant here!
-- 🔭 I love experimenting new things 
-- 🌱 I’m currently polishing my programming 
-- 👯 I’m looking forward to collaborate in the field of Motorsports!
-- 📫 Reach out to me via vedant.muscat2@gmail.com
+- I'm a Masters Robotics student at TU Delft
+- I have experience working in Mechanical and Electronic systems in Rovers, AUVs, ROVs.
+- Currently I'm specializing in machine learning, perception, control.
+- Incase you've similar interests, you can reach out to me via LinkedIn 📫
 <!--
 **VedantLabs/VedantLabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
